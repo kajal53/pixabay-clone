@@ -1,4 +1,4 @@
-# 🖼️ Pixabay Clone
+#  Pixabay Clone
 
 A fully responsive image search app built with **React + Vite**, powered by the **Pixabay API**. Search millions of free stock images, browse by category, and save your favorites — all in a clean dark UI.
 
@@ -32,7 +32,7 @@ A fully responsive image search app built with **React + Vite**, powered by the 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pixabay-clone.git
+git clone https://github.com/kajal53/pixabay-clone
 cd pixabay-clone
 ```
 
@@ -40,14 +40,6 @@ cd pixabay-clone
 
 ```bash
 npm install
-```
-
-### 3. Setup environment variables
-
-Copy the `.env.example` file and create a `.env` file:
-
-```bash
-cp .env.example .env
 ```
 
 Then add your Pixabay API key in the `.env` file:
@@ -63,7 +55,7 @@ VITE_LOAD_MORE_DELAY=500
 
 > 🔑 Get your free API key at: [https://pixabay.com/api/docs/](https://pixabay.com/api/docs/)
 
-### 4. Run the app
+### 3. Run the app
 
 ```bash
 npm run dev
